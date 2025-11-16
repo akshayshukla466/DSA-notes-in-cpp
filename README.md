@@ -1,22 +1,24 @@
-📘 DSA Notes in C++
+# 📘 DSA Notes in C++
 
 This repository tracks my daily DSA learning journey.
-I am following the Striver A2Z DSA Sheet, and also solving LeetCode + GFG Problem of the Day regularly.
-All solutions are written in clean, structured, and readable C++.
+I am following the **Striver A2Z DSA Sheet**, and also solving **LeetCode + GFG Problem of the Day** regularly.
+All solutions are written in **clean, structured, and readable C++**.
 
-🚀 Goals of This Repo
+---
 
-🟦 Maintain consistent daily DSA practice
+## 🚀 Goals of This Repo
 
-🟩 Write clean and readable C++ solutions
+* 🟦 Maintain consistent daily DSA practice
+* 🟩 Write clean and readable C++ solutions
+* 🟨 Cover the entire Striver A2Z Sheet with proper notes
+* 🟪 Upload LeetCode & GFG POTD daily
+* 🟧 Build a revision-friendly, organized DSA repository
 
-🟨 Cover the entire Striver A2Z Sheet with proper notes
+---
 
-🟪 Upload LeetCode & GFG POTD daily
+## 📂 Repository Structure
 
-🟧 Build a revision-friendly, organized DSA repository
-
-📂 Repository Structure
+```
 DSA-notes-in-cpp/
 │
 ├── Day_1_basic_of_cpp/
@@ -38,72 +40,68 @@ DSA-notes-in-cpp/
 ├── GFG_POTD/
 │
 └── README.md
+```
 
-🧩 What I Upload Daily
+---
+
+## 🧩 What I Upload Daily
 
 ✔️ Striver A2Z sheet ka next topic
 ✔️ LeetCode Problem of the Day
 ✔️ GFG Problem of the Day
 ✔️ Extra questions / notes whenever required
 
-🛠️ Tech Stack
+---
 
-💻 Language: C++
+## 🛠️ Tech Stack
 
-📝 Editor: VS Code
+* 💻 **Language:** C++
+* 📝 **Editor:** VS Code
+* 🧵 **Compiler:** MinGW / g++
+* 🌐 **Version Control:** Git + GitHub
 
-🧵 Compiler: MinGW / g++
+---
 
-🌐 Version Control: Git + GitHub
+## 🔥 Progress Tracking
 
-🔥 Progress Tracking
+* Basics
+* Maths
+* Arrays
+* Binary Search
+* Strings
+* Two Pointers
+* Sliding Window
+* Hashing
+* Recursion & Backtracking
+* Linked List
+* Stack & Queue
+* Binary Trees
+* BST
+* Heaps
+* Graphs
+* DP
 
- Basics
+---
 
- Maths
+## 🤝 Contributions
 
- Arrays
+This is a personal learning repo, but suggestions are always welcome — feel free to open an issue.
 
- Binary Search
+---
 
- Strings
-
- Two Pointers
-
- Sliding Window
-
- Hashing
-
- Recursion & Backtracking
-
- Linked List
-
- Stack & Queue
-
- Binary Trees
-
- BST
-
- Heaps
-
- Graphs
-
- DP
-
-🤝 Contributions
-
-This is a personal learning repo,
-but suggestions are always welcome — feel free to open an issue.
-
-✨ Keep Learning!
+## ✨ Keep Learning!
 
 Daily practice se hi DSA strong hota hai.
 This repo helps me track my consistency and my growth.
 
-📬 Contact
+---
 
-GitHub: https://github.com/akshayshukla466
+## 📬 Contact
 
-LinkedIn: https://www.linkedin.com/in/akshayshukla-
+* **GitHub:** [https://github.com/akshayshukla466](https://github.com/akshayshukla466)
+* **LinkedIn:** [https://www.linkedin.com/in/akshayshukla-](https://www.linkedin.com/in/akshayshukla-)
 
-⭐ If you like this repository, consider giving it a Star!
+---
+
+⭐ *If you like this repository, consider giving it a Star!*
+
