@@ -129,11 +129,3 @@ int main() {
 |--------|------------|
 | Time   | O(N) |
 | Space  | O(1) |
-
-### Key Notes
-- Always prefer **single scan approach** unless sorting is needed for some other reason.
-- Works for arrays of **any size and type** (integers, floats).
-- Can also be extended to:
-  - Find **second largest** element
-  - Find **minimum** element
-  - Find **both min and max in one scan**
