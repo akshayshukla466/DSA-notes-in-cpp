@@ -106,3 +106,4 @@ int main() {
 | Space  | O(1)       |
 
 ---
+Leetcode: [link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
